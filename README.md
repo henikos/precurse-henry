@@ -1,2 +1,1 @@
-# precurse-henry
-Repositorio de prueba M2
+Este es un proyecto prueba de GirHUB a Mi escritiorio
